@@ -13,5 +13,5 @@ Kelas 2E
 2.
 
 Kelas 2F
-1.NIM - Nama
+1.361955401155 - Rohmad Kurniadi
 2.
