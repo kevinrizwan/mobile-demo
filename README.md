@@ -14,4 +14,4 @@ Kelas 2E
 
 Kelas 2F
 1.361955401155 - Rohmad Kurniadi
-2.
+2. 361955401172 - Kevin Rizwan
